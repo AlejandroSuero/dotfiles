@@ -1,7 +1,7 @@
 # My personal .files
 Configuration files for Windows, Mac and Linux.
 
-            █▓▒▒░░░青目░░░▒▒▓█
+<center>█▓▒▒░░░青目░░░▒▒▓█</center>
 
 ### Index
 - [General settings](./General/):
