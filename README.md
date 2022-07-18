@@ -1,7 +1,7 @@
 # My personal .files
 Configuration files for Windows, Mac and Linux.
 
-<p align="center">█▓▒▒░░░青目░░░▒▒▓█</p>
+<p align="center" style="font-size: 20px;">█▓▒▒░░░青目░░░▒▒▓█</p>
 
 ### Index
 - [General settings](./General/):
