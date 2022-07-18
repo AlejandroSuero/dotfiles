@@ -1,6 +1,8 @@
 # My personal .files
 Configuration files for Windows, Mac and Linux.
 
+            █▓▒▒░░░青目░░░▒▒▓█
+
 ### Index
 - [General settings](./General/):
     - Vim/NeoVim config & plugins
